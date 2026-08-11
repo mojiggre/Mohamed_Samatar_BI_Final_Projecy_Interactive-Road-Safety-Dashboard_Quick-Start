@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+>>>>>>> 7dc4f7d2ca8107117af7303df929a46e3c2ba697
