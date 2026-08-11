@@ -11,12 +11,6 @@ it from the wrong folder.
 
 [Interactive Road Safety Dashboard](https://mohamed-final-project-interactive-road-safety-dashboard.streamlit.app/)
 
-
-<<<<<<< HEAD
-=======
- [Interactive Road Safety Dashboard Streamlit App](https://mohamed-final-project-interactive-road-safety-dashboard.streamlit.app/) platform.
-
->>>>>>> 7dc4f7d2ca8107117af7303df929a46e3c2ba697
 ## Setup (do this once)
 
 1. Create a folder anywhere on your computer, e.g. `Desktop\RoadSafetyDashboard`.
