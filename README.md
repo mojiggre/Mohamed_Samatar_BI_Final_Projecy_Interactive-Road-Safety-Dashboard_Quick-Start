@@ -9,6 +9,9 @@ dashboard UI — lives inside `Mohamed_Samatar_CST2213_BI_Final_Project_Submissi
 `train.py`, and nothing to import, so there's nothing to break by running
 it from the wrong folder.
 
+[Interactive Road Safety Dashboard](https://mohamed-final-project-interactive-road-safety-dashboard.streamlit.app/)
+
+
 <<<<<<< HEAD
 =======
  [Interactive Road Safety Dashboard Streamlit App](https://mohamed-final-project-interactive-road-safety-dashboard.streamlit.app/) platform.
